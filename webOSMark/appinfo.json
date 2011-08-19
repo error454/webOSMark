@@ -1,0 +1,10 @@
+{
+	"title": "WebOSMark",
+	"type": "pdk",
+	"main": "webosmark",
+	"id": "com.wordpress.mobilecoder.webosmark",
+	"version": "0.0.4",
+	"vendor": "Mobile Coder",
+	"icon": "icon.png",
+	"requiredMemory": 10
+}

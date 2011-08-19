@@ -1,0 +1,62 @@
+[
+    {
+        "source": "app/assistants/stage-assistant.js"
+    }, 
+    {
+        "source": "app/views/main/main-chrome.js", 
+        "scenes": "main"
+    }, 
+    {
+        "source": "app/assistants/main-assistant.js", 
+        "scenes": "main"
+    }, 
+    {
+        "source": "app/assistants/chartTops-assistant.js", 
+        "scenes": "chartTops"
+    }, 
+    {
+        "source": "app/views/chartTops/chartTops-chrome.js", 
+        "scenes": "chartTops"
+    }, 
+    {
+        "source": "js/ProtoChart.js"
+    }, 
+    {
+        "source": "js/md5.js"
+    }, 
+    {
+        "source": "js/device.js"
+    }, 
+    {
+        "source": "app/assistants/totals-assistant.js", 
+        "scenes": "totals"
+    }, 
+    {
+        "source": "app/views/totals/totals-chrome.js", 
+        "scenes": "totals"
+    }, 
+    {
+        "source": "app/assistants/fulldetails-assistant.js", 
+        "scenes": "fulldetails"
+    }, 
+    {
+        "source": "app/views/fulldetails/fulldetails-chrome.js", 
+        "scenes": "fulldetails"
+    }, 
+    {
+        "source": "app/assistants/deviceView-assistant.js", 
+        "scenes": "deviceView"
+    }, 
+    {
+        "source": "app/views/deviceView/deviceView-chrome.js", 
+        "scenes": "deviceView"
+    }, 
+    {
+        "source": "app/assistants/feedback-assistant.js", 
+        "scenes": "feedback"
+    }, 
+    {
+        "source": "app/views/feedback/feedback-chrome.js", 
+        "scenes": "feedback"
+    }
+]

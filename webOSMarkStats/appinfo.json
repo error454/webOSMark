@@ -1,0 +1,9 @@
+{
+	"id": "com.wordpress.mobilecoder.webosmarkstats",
+	"version": "1.0.3",
+	"vendor": "Mobile Coder",
+	"type": "web",
+	"main": "index.html",
+	"title": "WebOSMark Stats",
+	"icon": "icon.png"
+}
